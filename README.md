@@ -1,1 +1,2 @@
-Exercise Repo
+Description
+This repository is for exercise
